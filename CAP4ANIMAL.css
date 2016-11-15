@@ -1,0 +1,188 @@
+@charset "UTF-8";
+
+body
+{
+	background-color: #3C97D1;
+}
+.wrapper
+{
+	width: 1000px;
+	height: 100%;
+	background-color: #F0EEEE;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header
+{
+	width:100%;
+	height:150px;
+	background-repeat: no-repeat;
+    background-position: right top;	
+}
+.logo
+{
+	width:100%;
+	margin-left:20px;
+	float:left;	
+	margin-top:40px;
+}
+
+.nav
+{
+	height: 70px;
+	width: 600px;
+	padding-left: 75px;
+	background-color: #F0EEEE;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 40px;
+	color: #000000;
+}
+
+a:link    {color:black; background-color:transparent; text-decoration:none}
+a:visited    {color:black; background-color:transparent; text-decoration:none}
+
+a:hover    {color: #3C97D1; background-color:transparent; text-decoration:underline}
+
+#copy {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	color: #3C97D1;
+	text-align:center;	
+}
+
+.icon {
+	margin-left: 100px
+	
+	}
+
+.DisplayInline {
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -moz-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+	
+.PuppiesClass {
+	width:100%;
+	height:100%;
+}	
+
+.PetAdoption {
+	margin-top: 50px;
+}
+
+.AdoptionText {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	color: #3C97D1;
+	text-align: left;
+    margin: 50px;	
+}
+
+.AdoptionButton {
+	 text-align: center;
+	 
+}
+
+.TwitterIcon {
+	 margin-left: 35%;
+}
+
+body
+{
+	background-color: #3C97D1;
+}
+
+.Volunteer {
+    margin: 20px;
+}
+
+.VolunteerText, .SignUpTextHeading, .ContactusText {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;	
+	font-size: 20px;
+    margin: 35px;
+}
+
+.VolunteerButton {
+	 text-align: center;
+}
+
+hr {
+    display: block;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    box-shadow: 4px 4px 5px #888888;
+}
+
+.TitleDivision {
+	margin: 20px;
+}
+
+button {
+	cursor: pointer;
+    background-color: #3C97D1;
+}
+
+.SignUpDiv  {
+	margin: 25px;
+}
+
+.SendButton {
+	float: right;
+}
+
+.LeftTextBox {
+	width: 40%;
+}
+
+.RightTextBox {
+	width: 60%;
+}
+
+input {
+	width: 200px;
+}
+
+textarea {
+	width: 350px;
+    height: 100px;
+}
+
+.TwitterIcon {
+	 margin-left: 35%;
+}
+
+.ContactusTextHeading {
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+.ContactusButtons {
+	margin: 25px;
+}
+
+.inputFieldWidth {
+	width: 420px !important;
+    margin-bottom: 5px;
+}
+
+.ContactusText {
+	margin-right: 0px;
+}
+
+.contactusMaps {
+	margin: 20px;
+}
